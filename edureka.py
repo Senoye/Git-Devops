@@ -7,3 +7,5 @@ name = input("What is your name? ")
 
 # Greet the user
 print(f"Nice to meet you, {name}!")
+print(f"where are you frome, {name}")
+
