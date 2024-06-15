@@ -1,5 +1,6 @@
 # Print a welcome message to the terminal
 print("Hello, Brother what's up?")
+print("This is just a test")
 
 # Ask the user for their name
 name = input("What is your name? ")
